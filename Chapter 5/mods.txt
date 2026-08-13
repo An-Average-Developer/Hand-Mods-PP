@@ -4,3 +4,4 @@ GavinPack.zip
 LAHands.zip
 YanoPack.zip
 ProacPack.zip
+ProacPackV2.zip
